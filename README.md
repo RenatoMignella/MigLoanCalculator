@@ -1,4 +1,4 @@
-# Loan Calculator
+# Loan MigCalculator
 
 A Responsive Loan Calculator.
 
