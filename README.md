@@ -2,4 +2,4 @@
 
 A Responsive Loan Calculator..
 
-![](presentationgif.gif)
+![](migloanimage.jpg)
